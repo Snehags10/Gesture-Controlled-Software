@@ -14,7 +14,9 @@ Features
 Libraries Used
 
 Opencv - It is used for capturing and processing video frames from a webcam for hand gesture recognition. 
+
 MediaPipe - It is utilized for hand gesture recognition and feature extraction tasks.
+
 AutoPy – It is used for automating keyboard and mouse actions on a computer. 
 
 
